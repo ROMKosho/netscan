@@ -4,7 +4,6 @@ import os, sys
 import socket
 import threading
 import datetime, time
-import urllib, urllib2
 
 
 class PortScan_Main(threading.Thread):
